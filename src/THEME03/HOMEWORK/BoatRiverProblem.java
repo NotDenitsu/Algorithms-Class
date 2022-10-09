@@ -1,4 +1,4 @@
-package THEME03;
+package THEME03.HOMEWORK;
 
 public class BoatRiverProblem {
 
